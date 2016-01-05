@@ -14,9 +14,7 @@
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="color" keyPath="breadCrumbTitleColor">
-                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="string" keyPath="seperatorImageName" value="seperator"/>
                     </userDefinedRuntimeAttributes>
                     <connections>
                         <segue destination="c4w-Yn-HtL" kind="relationship" relationship="rootViewController" id="fYh-KM-Mlj"/>
